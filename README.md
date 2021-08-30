@@ -19,6 +19,17 @@ Tendo acesso ao prompt de comando
 
 ->     npm init -y
 
+### instalação de dependencias e manipulação git "NA ESCOLA"
+    ### antes de instalar qualquer dependencia (basta 1 vez)
+
+    npm set strict-ssl false
+    npm config set registry https://registry.npmjs.org/
+
+    ### antes de enviar para o GitHub(basta 1 vez)
+
+    git config --global http.sslVerify false
+
+
 ### Instalação de dependencias
 
 Sempre pesquisar a tecnologia no site que contém a documentação oficial
