@@ -61,6 +61,10 @@ No package.json
 No prompt vc executa:
 npm run morango
 
+### Token de autenticação 
+
+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
+
 
 
 
